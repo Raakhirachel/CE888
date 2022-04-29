@@ -1,5 +1,6 @@
 # CE888
 Navigate to code lacation path "Please check word embedding file and neccessary package are downloaded" : %cd Path name
+
 Installing neccessary library packages :
   !pip2 install -r requirements.txt
   !pip2 install torch
