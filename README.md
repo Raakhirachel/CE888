@@ -2,8 +2,11 @@
 Navigate to code lacation path "Please check word embedding file and neccessary package are downloaded" : %cd Path name
 
 Installing neccessary library packages :
+  
   !pip2 install -r requirements.txt
+  
   !pip2 install torch
+  
   !pip2 install future
  
  Training phase - models of each features are saved on saved model folder : !python2.7 train.py --dataset data/
